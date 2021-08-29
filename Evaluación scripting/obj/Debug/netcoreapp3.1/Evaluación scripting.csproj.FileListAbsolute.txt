@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.exe
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.deps.json
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.runtimeconfig.json
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.runtimeconfig.dev.json
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.dll
+C:\Users\user\source\repos\Evaluación scripting\bin\Debug\netcoreapp3.1\Evaluación scripting.pdb
+C:\Users\user\source\repos\Evaluación scripting\obj\Debug\netcoreapp3.1\Evaluación scripting.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Evaluación scripting\obj\Debug\netcoreapp3.1\Evaluación scripting.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Evaluación scripting\obj\Debug\netcoreapp3.1\Evaluación scripting.AssemblyInfo.cs
+C:\Users\user\source\repos\Evaluación scripting\obj\Debug\netcoreapp3.1\Evaluación scripting.dll
+C:\Users\user\source\repos\Evaluación scripting\obj\Debug\netcoreapp3.1\Evaluación scripting.pdb
